@@ -12,7 +12,6 @@ This organization is the home for our products, [support](https://github.com/Due
 
 * [Main](https://github.com/DuendeSoftware/IdentityServer.Quickstart.UI) - UI using in-memory users and configuration
 * [ASP.NET Identity](https://github.com/DuendeSoftware/IdentityServer.Quickstart.UI.AspNetIdentity) - UI using ASP.NET Identity for user storage
-IdentityModel is mainted by [Duende Software](https://duendesoftware.com).
 
 ### Templates
 
