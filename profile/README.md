@@ -6,7 +6,7 @@ This organization is the home for our products, [support](https://github.com/Due
 ### Products
 
 * [IdentityServer](https://github.com/DuendeSoftware/IdentityServer) - the most flexible and standards-compliant OpenID Connect and OAuth 2.0 framework for ASP.NET Core.
-* [BFF Framework](https://github.com/IdentityModel/IdentityModel.AspNetCore) - security framework for SPAs and Blazor WASM
+* [BFF Framework](https://github.com/DuendeSoftware/BFF) - security framework for SPAs and Blazor WASM
 
 ### Quickstart UIs
 
