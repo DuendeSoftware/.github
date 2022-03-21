@@ -1,7 +1,7 @@
 # Welcome to Duende Software
 
-This organization is the home for our products, [support](https://github.com/DuendeSoftware/IdentityServer/discussions) and
-[docs](https://docs.duendesoftware.com/).
+This organization is the home for our products, [support](https://github.com/DuendeSoftware/Support/issues) and
+[documentation](https://docs.duendesoftware.com/).
 
 ### Products
 
