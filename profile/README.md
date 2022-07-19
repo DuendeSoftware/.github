@@ -16,3 +16,7 @@ This organization is the home for our products, [support](https://github.com/Due
 ### Templates
 
 * [IdentityServer and BFF](https://github.com/DuendeSoftware/IdentityServer.Templates)
+
+### Free Open Source
+
+* [Automatic Access Token Management for Worker and Web Applications](https://github.com/DuendeSoftware/Duende.AccessTokenManagement)
