@@ -19,6 +19,6 @@ This organization is the home for our products, [support](https://github.com/Due
 
 ### Free Open Source
 
-* [Duende.AccessTokenManagement](https://github.com/DuendeSoftware/foss/access-token-management/) Automatic Access Token Management for Worker and Web Applications.
-* [Duende.IdentityModel](https://github.com/DuendeSoftware/foss/identity-model/) IdentityModel is a .NET library for claims-based identity, OAuth 2.0 and OpenID Connect.
-* [Duende.IdentityModel.OidcClient](https://github.com/DuendeSoftware/foss/identity-model-oidc-client/) Several libraries for building OpenID Connect (OIDC) native clients.
+* [Duende.AccessTokenManagement](https://github.com/DuendeSoftware/foss/tree/main/access-token-management/) Automatic Access Token Management for Worker and Web Applications.
+* [Duende.IdentityModel](https://github.com/DuendeSoftware/foss/tree/main/identity-model/) IdentityModel is a .NET library for claims-based identity, OAuth 2.0 and OpenID Connect.
+* [Duende.IdentityModel.OidcClient](https://github.com/DuendeSoftware/foss/tree/main/identity-model-oidc-client/) Several libraries for building OpenID Connect (OIDC) native clients.
