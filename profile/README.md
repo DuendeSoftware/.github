@@ -1,6 +1,6 @@
 # Welcome to Duende Software
 
-This organization is the home for our products, [support](https://github.com/DuendeSoftware/Support/issues) and
+This organization is the home for our products, [developer community & support](https://github.com/DuendeSoftware/community) and
 [documentation](https://docs.duendesoftware.com/).
 
 ### Products
