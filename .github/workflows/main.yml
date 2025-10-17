@@ -9,7 +9,7 @@ jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-      - uses: JasonEtco/rss-to-readme@v1
+      - uses: JasonEtco/rss-to-readme@a1daea7354236efd6b95d75e77b45f8a2dd88199
         with:
           feed-url: https://duendesoftware.com/rss.xml
           readme-section: feed
