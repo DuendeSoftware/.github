@@ -26,15 +26,6 @@ As part of [Discussions](https://github.com/DuendeSoftware/community/discussions
 
 ---
 
-## 📙 Recent blog posts
-
-Curious about what we're up to? No need to miss out! Here are our [latest blog posts](https://duendesoftware.com/blog):
-
-<!--START_SECTION:feed-->
-<!--END_SECTION:feed-->
-
----
-
 ## 👩‍💻 Repositories
 
 If you want to follow along what we are doing, you can explore the various repositories in our organization. If you're looking for products, templates or our free open source, here's where to find them:
